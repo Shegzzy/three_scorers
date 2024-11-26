@@ -1,6 +1,6 @@
 # three_scorers
 
-A new Flutter project.
+A new Flutter project for 3Scorers assessment.
 
 ## Getting Started
 
